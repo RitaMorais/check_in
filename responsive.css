@@ -39,17 +39,22 @@ p {
 
 .input {
 	border-radius: 0;
-	width: 420px;
-	height: 103px;
-	padding-left: 15px;
+	width: 405px;
+	height: 103px;	
+ 	margin: 0;
+ 	padding: 0 15px;
+
 
 }
 
 ::-webkit-input-placeholder {
    font-family: "Helvetica Neue";
-   font-size: 2.2em;
+   font-size: 4.2em;
    font-weight: 200;
-	overflow: visible;
+   line-height: normal;
+   vertical-align: center;
+   overflow: visible;
+
 }
 
 .icon {
