@@ -35,8 +35,9 @@ h3 {
 p {
   	font-weight: 200;
   	font-size: 1em;
-  	padding-top: 20px;
-  	margin-bottom: 20px;
+  	padding-top: 5%;
+  	padding-bottom: 5%;
+  	
 }
 
 
@@ -74,9 +75,8 @@ p {
    font-size: 1.5em;
    font-weight: 200;
    line-height: 80%;
-   text-align: center;
    overflow: visible;
-   color: #bdc1c3;
+   color: #80868a;
 
 
 
