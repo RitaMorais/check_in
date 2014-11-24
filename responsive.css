@@ -3,10 +3,10 @@
 	
 	#wrapper {
 	background-color: green; 
-	width: 750px;
+	width: 800px;
 	margin: auto;
 	margin-top: 20%;
-	height: 650px;
+	height: 700px;
 	border-radius: 0.3em;
 	box-shadow: 3px 3px 5px 0.1px #d0d5d8;
 
@@ -29,7 +29,7 @@ p {
 }
 
 .centered-text {
-	width: 600px;
+	width: 650px;
 }
 
 .input, .icon, .ok {
@@ -39,8 +39,8 @@ p {
 
 .input {
 	border-radius: 0;
-	width: 380px;
-	height: 103px;	
+	width: 420px;
+	height: 104px;	
  	margin: 0;
  	padding: 0 15px;
 
