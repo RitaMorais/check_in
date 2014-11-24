@@ -3,15 +3,94 @@
 	
 	#wrapper {
 	background-color: blue; 
-	width: 90%;
+	width: 750px;
 	margin: auto;
-	margin-top: 20%;
-	height: 100%;
+	margin-top: 90px;
+	height: 450px;
 	border-radius: 0.3em;
 	box-shadow: 3px 3px 5px 0.1px #d0d5d8;
 
 }
 
+h3, h2, p {
+  	font-size: 1.8em;
+  }
+
+h2 {
+  
+  	padding-top: 50px;
+  	
+}
+
+
+p {
+  	font-size: 1.6em;
+
+}
+
+.centered-text {
+	width: 500px;
+}
+
+.input, .icon, .ok {
+	height: 55px;
+
+}
+
+.input {
+	border-radius: 0;
+	width: 350px;
+	height: 53px;
+	padding-left: 15px;
+	
+
+
+
+}
+
+::-webkit-input-placeholder {
+   font-family: "Helvetica Neue";
+   font-size: 1.2em;
+   font-weight: 200;
+}
+
+.icon {
+	width: 60px;
+	background-color: #e0e6e9;
+	border-radius: 0.5em 0px 0px 0.5em;
+
+}
+
+.ok {
+	width: 50px;
+	background-color: #434b4b;
+	border-radius: 0px 0.5em 0.5em 0px;
+
+}
+
+.fa-envelope{
+    position:relative;
+    top: 25%;
+    left: 35%;
+    color: #a5a5a5;
+    font-size: 1.4em  !important;
+}
+
+.fa-user{
+    position:relative;
+    top: 25%;
+    left:35%;
+    color: #a5a5a5;
+    font-size: 1.6em  !important;
+}
+
+.fa-angle-right{
+    position:relative;
+    top: 25%;
+    left:40%;
+    color: #eeeef0;
+    font-size: 1.4em  !important;
+}
 
 
 
