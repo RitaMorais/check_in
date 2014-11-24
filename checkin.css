@@ -87,14 +87,14 @@ p {
 
 .fa-envelope{
     position:relative;
-    top:10%;
+    top:15%;
     left:35%;
     color: #a5a5a5;
 }
 
 .fa-user{
     position:relative;
-    top:15%;
+    top:20%;
     left:35%;
     color: #a5a5a5;
 }
@@ -111,5 +111,13 @@ input:focus {
 	outline-color: #e0e6e9;
 }
 
+.register {
+	display: block;
+	margin: auto;
+	width: 100px;
+	height: 33px;
+	background-color: #434b4b;
+	border-style: none;
+}
 
 
