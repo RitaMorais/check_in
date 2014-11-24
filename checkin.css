@@ -74,7 +74,10 @@ p {
    font-size: 1.5em;
    font-weight: 200;
    line-height: 80%;
+   text-align: center;
    overflow: visible;
+   color: #bdc1c3;
+
 
 
 }
@@ -82,14 +85,14 @@ p {
 .icon {
 	width: 12%;
 	background-color: #e0e6e9;
-	border-radius: 0.8em 0px 0px 0.8em;
+	border-radius: 1em 0px 0px 1em;
 
 }
 
 .ok {
 	width: 10%;
 	background-color: #434b4b;
-	border-radius: 0px 0.8em 0.8em 0px;
+	border-radius: 0px 1em 1em 0px;
 
 }
 
