@@ -65,21 +65,18 @@ p {
 
 
 .fa-envelope{
-    position:relative;
     top: 30%;
     left: 25%;
     font-size: 3.7em  !important;
 }
 
 .fa-user{
-    position:relative;
     top: 30%;
     left:25%;
     font-size: 4em  !important;
 }
 
 .fa-angle-right{
-    position:relative;
     top: 25%;
     left:40%;
     color: #eeeef0;
@@ -98,8 +95,22 @@ p {
 	
 	
 	#wrapper {
+		width: 70%;
 		margin-top: 120px;
-		background-color: red;
+		background-color: grey;
+
+}
+
+	.input, .icon, .ok {
+	height: 70px;
+
+}
+.input {
+	width: 73%;
+	height: 67px;
+	background-color: #ffffff;
+	border-radius: 0;
+
 
 }
 }
