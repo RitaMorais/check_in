@@ -56,6 +56,9 @@ p {
 
 }
 
+
+
+
 .input {
 	width: 210px;
 	height: 33px;
@@ -91,6 +94,7 @@ p {
     top:15%;
     left:35%;
     color: #a5a5a5;
+    font-size: 0.7em  !important;
 }
 
 .fa-user{

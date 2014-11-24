@@ -49,9 +49,9 @@ p {
 
 ::-webkit-input-placeholder {
    font-family: "Helvetica Neue";
-   font-size: 4.2em;
+   font-size: 3.2em;
    font-weight: 200;
-   line-height: normal;
+   line-height: 10px;
    vertical-align: center;
    overflow: visible;
 
