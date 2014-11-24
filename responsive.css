@@ -3,17 +3,17 @@
 	
 	#wrapper {
 	background-color: yellow; 
-	width: 550px;
+	width: 700px;
 	margin: auto;
-	margin-top: 10px;
-	height: 450px;
+	margin-top: 20%;
+	height: 650px;
 	border-radius: 0.3em;
 	box-shadow: 3px 3px 5px 0.1px #d0d5d8;
 
 }
 
 h3, h2, p {
-  	font-size: 1.8em;
+  	font-size: 2.9em;
   }
 
 h2 {
@@ -24,34 +24,32 @@ h2 {
 
 
 p {
-  	font-size: 1.6em;
+  	font-size: 2.6em;
 
 }
 
 .centered-text {
-	width: 500px;
+	width: 550px;
 }
 
 .input, .icon, .ok {
-	height: 55px;
+	height: 105px;
 
 }
 
 .input {
 	border-radius: 0;
-	width: 350px;
-	height: 53px;
+	width: 420px;
+	height: 103px;
 	padding-left: 15px;
-	
-
-
 
 }
 
 ::-webkit-input-placeholder {
    font-family: "Helvetica Neue";
-   font-size: 1.2em;
+   font-size: 2.2em;
    font-weight: 200;
+	overflow: visible;
 }
 
 .icon {
@@ -73,7 +71,7 @@ p {
     top: 25%;
     left: 35%;
     color: #a5a5a5;
-    font-size: 1.4em  !important;
+    font-size: 2.4em  !important;
 }
 
 .fa-user{
@@ -81,7 +79,7 @@ p {
     top: 25%;
     left:35%;
     color: #a5a5a5;
-    font-size: 1.6em  !important;
+    font-size: 2.6em  !important;
 }
 
 .fa-angle-right{
@@ -89,7 +87,7 @@ p {
     top: 25%;
     left:40%;
     color: #eeeef0;
-    font-size: 1.4em  !important;
+    font-size: 2.4em  !important;
 }
 
 
