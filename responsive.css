@@ -2,8 +2,8 @@
 @media screen and (max-device-width : 568px) and (min-device-width: 320px){
 	
 	#wrapper {
-	background-color: yellow; 
-	width: 700px;
+	background-color: green; 
+	width: 750px;
 	margin: auto;
 	margin-top: 20%;
 	height: 650px;
@@ -29,7 +29,7 @@ p {
 }
 
 .centered-text {
-	width: 550px;
+	width: 600px;
 }
 
 .input, .icon, .ok {
@@ -39,7 +39,7 @@ p {
 
 .input {
 	border-radius: 0;
-	width: 405px;
+	width: 380px;
 	height: 103px;	
  	margin: 0;
  	padding: 0 15px;
@@ -58,14 +58,14 @@ p {
 }
 
 .icon {
-	width: 60px;
+	width: 100px;
 	background-color: #e0e6e9;
 	border-radius: 0.5em 0px 0px 0.5em;
 
 }
 
 .ok {
-	width: 50px;
+	width: 90px;
 	background-color: #434b4b;
 	border-radius: 0px 0.5em 0.5em 0px;
 
