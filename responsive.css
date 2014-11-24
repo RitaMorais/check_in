@@ -1,121 +1,38 @@
-@media screen and (max-width: 750px) {
+/* Smartphone*/
+@media screen and (max-device-width : 568px) and (min-device-width: 320px){
 	
 	#wrapper {
-	background-color: #f4f5f7;
-	width: 310px;
+	background-color: blue; 
+	width: 500px;
 	margin: auto;
-	margin-top: 80px;
-	height: 200px;
+	margin-top: 90px;
+	height: 350px;
 	border-radius: 0.3em;
 	box-shadow: 3px 3px 5px 0.1px #d0d5d8;
-}
+
 }
 
 
-@media screen and (max-width: 320px) {
+
+
+
+}
+/* Ipad Portrait */
+
+@media screen and (max-device-width : 896px) and (min-device-width: 768px){
+	
 	
 	#wrapper {
-	background-color: #f4f5f7;
-	width: 250px;
-	margin: auto;
-	margin-top: 50px;
-	height: 200px;
-	border-radius: 0.3em;
-	box-shadow: 3px 3px 5px 0.1px #d0d5d8;
-}
-
-h3, h2, p {
-	text-align: center;
-  	font-family: "Helvetica Neue";
-  	font-size: 0.8em;
-  	margin: 0px;
-  }
-
-h2 {
-  	font-weight: 300;
-  	padding-top: 40px;
-  	
-}
-
-h3 {
-  	font-weight: 500;
+		margin-top: 120px;
+		background-color: red;
 
 }
-
-
-p {
-  	font-weight: 200;
-  	font-size: 0.6em;
-  	padding-top: 20px;
-  	margin-bottom: 5px;
-}
-
-
-
-.centered-text {
-	margin: auto;
-	width: 200px;
 }
 
 
 
 
-.input, .icon, .ok {
-	float: left;
-	border: none;
-	height: 25px;
 
-}
-
-.input {
-	width: 135px;
-	height: 23px;
-	padding-left: 10px;
-	background-color: #ffffff;
-
-
-}
-
-::-webkit-input-placeholder {
-   font-family: "Helvetica Neue";
-   font-size: 1em;
-   font-weight: 200;
-}
-
-.icon {
-	width: 30px;
-	background-color: #e0e6e9;
-	border-radius: 0.5em 0px 0px 0.5em;
-
-}
-
-.ok {
-	width: 20px;
-	background-color: #434b4b;
-	border-radius: 0px 0.5em 0.5em 0px;
-
-}
-
-.fa-envelope{
-    position:relative;
-    top:7%;
-    left:30%;
-    color: #a5a5a5;
-}
-
-.fa-angle-right{
-    position:relative;
-    top:10%;
-    left:35%;
-    color: #eeeef0;
-}
-
-input:focus { 
-	outline-width: 0.2em;
-	outline-color: #e0e6e9;
-}
-
-}
 
 
 
