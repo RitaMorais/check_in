@@ -34,7 +34,7 @@ h3 {
 
 p {
   	font-weight: 200;
-  	font-size: 0.8em;
+  	font-size: 1em;
   	padding-top: 20px;
   	margin-bottom: 20px;
 }
@@ -43,7 +43,7 @@ p {
 
 .centered-text {
 	margin: auto;
-	width: 300px;
+	width: 80%;
 }
 
 
@@ -52,7 +52,7 @@ p {
 .input, .icon, .ok {
 	float: left;
 	border: none;
-	height: 35px;
+	height: 50px;
 
 }
 
@@ -60,9 +60,9 @@ p {
 
 
 .input {
-	width: 210px;
-	height: 33px;
-	padding-left: 10px;
+	width: 72%;
+	height: 48px;
+	padding-left: 20px;
 	background-color: #ffffff;
 	border-radius: 0;
 
@@ -71,44 +71,50 @@ p {
 
 ::-webkit-input-placeholder {
    font-family: "Helvetica Neue";
-   font-size: 1em;
+   font-size: 1.5em;
    font-weight: 200;
+   line-height: 80%;
+   overflow: visible;
+
+
 }
 
 .icon {
-	width: 40px;
+	width: 12%;
 	background-color: #e0e6e9;
-	border-radius: 0.5em 0px 0px 0.5em;
+	border-radius: 0.8em 0px 0px 0.8em;
 
 }
 
 .ok {
-	width: 30px;
+	width: 10%;
 	background-color: #434b4b;
-	border-radius: 0px 0.5em 0.5em 0px;
+	border-radius: 0px 0.8em 0.8em 0px;
 
 }
 
 .fa-envelope{
     position:relative;
-    top:15%;
-    left:35%;
-    color: #a5a5a5;
-    font-size: 0.7em  !important;
+    top:25%;
+    left:25%;
+    color: #8b9296;
+    font-size: 1.5em  !important;
 }
 
 .fa-user{
     position:relative;
-    top:20%;
-    left:35%;
-    color: #a5a5a5;
+    top:25%;
+    left:28%;
+    color: #8b9296;
+    font-size: 1.5em  !important;
 }
 
 .fa-angle-right{
     position:relative;
-    top:17%;
+    top:23%;
     left:40%;
     color: #eeeef0;
+    font-size: 1.5em  !important;
 }
 
 input:focus { 

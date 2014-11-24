@@ -3,10 +3,9 @@
 	
 	#wrapper {
 	background-color: green; 
-	width: 800px;
+	width: 100%;
 	margin: auto;
 	margin-top: 20%;
-	height: 700px;
 	border-radius: 0.3em;
 	box-shadow: 3px 3px 5px 0.1px #d0d5d8;
 
@@ -29,27 +28,34 @@ p {
 }
 
 .centered-text {
-	width: 650px;
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .input, .icon, .ok {
-	height: 105px;
+	height: 150px;
 
 }
 
+.icon {
+	background-color: #aec0c2;
+
+}
+
+
 .input {
+	
 	border-radius: 0;
-	width: 420px;
-	height: 104px;	
+	height: 149px;	
  	margin: 0;
  	padding: 0 15px;
-
 
 }
 
 ::-webkit-input-placeholder {
    font-family: "Helvetica Neue";
-   font-size: 3.2em;
+   font-size: 4.2em;
    font-weight: 200;
    line-height: 10px;
    vertical-align: center;
@@ -57,34 +63,20 @@ p {
 
 }
 
-.icon {
-	width: 100px;
-	background-color: #e0e6e9;
-	border-radius: 0.5em 0px 0px 0.5em;
 
-}
-
-.ok {
-	width: 90px;
-	background-color: #434b4b;
-	border-radius: 0px 0.5em 0.5em 0px;
-
-}
 
 .fa-envelope{
     position:relative;
-    top: 25%;
-    left: 35%;
-    color: #a5a5a5;
-    font-size: 2.4em  !important;
+    top: 30%;
+    left: 25%;
+    font-size: 3.7em  !important;
 }
 
 .fa-user{
     position:relative;
-    top: 25%;
-    left:35%;
-    color: #a5a5a5;
-    font-size: 2.6em  !important;
+    top: 30%;
+    left:25%;
+    font-size: 4em  !important;
 }
 
 .fa-angle-right{
@@ -92,7 +84,7 @@ p {
     top: 25%;
     left:40%;
     color: #eeeef0;
-    font-size: 2.4em  !important;
+    font-size: 4em  !important;
 }
 
 
