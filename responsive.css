@@ -42,8 +42,16 @@ p {
 
 .icon {
 	background-color: #aec0c2;
+	border-radius: 2em 0px 0px 2em;
 
 }
+
+.ok {
+	border-radius: 0px 2em 2em 0px;
+}
+
+	
+
 
 
 .input {
@@ -57,7 +65,7 @@ p {
 
 ::-webkit-input-placeholder {
    font-family: "Helvetica Neue";
-   font-size: 4.2em;
+   font-size: 4.5em;
    font-weight: 200;
    line-height: 10px;
    vertical-align: center;
