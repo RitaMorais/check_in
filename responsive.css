@@ -24,7 +24,7 @@ h2 {
 
 p {
   	font-size: 3em;
-  	margin-top: 5%;
+  	margin-top: 10%;
   	padding-bottom: 5%; 
 	padding-top: 5%; 
 }
@@ -35,7 +35,7 @@ p {
 	margin-right: auto;
 }
 
-.input, .icon, .ok {
+.icon, .ok {
 	height: 150px;
 
 }
@@ -50,28 +50,16 @@ p {
 	border-radius: 0px 2em 2em 0px;
 }
 
-	
-
-
-
 .input {
-	
 	border-radius: 0;
 	height: 149px;	
- 	margin: 0;
- 	padding: 0 20px;
-
 }
 
 ::-webkit-input-placeholder {
    font-family: "Helvetica Neue";
-   font-size: 4.5em;
+   font-size: 5em;
    font-weight: 200;
    line-height: 10px;
-   vertical-align: center;
-   text-align: center;
-   overflow: visible;
-
 }
 
 

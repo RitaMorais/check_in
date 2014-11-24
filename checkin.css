@@ -61,9 +61,8 @@ p {
 
 
 .input {
-	width: 72%;
+	width: 69%;
 	height: 48px;
-	padding-left: 20px;
 	background-color: #ffffff;
 	border-radius: 0;
 
@@ -76,6 +75,8 @@ p {
    font-style: italic;
    font-weight: 200;
    line-height: 80%;
+   vertical-align: center;
+   text-align: center;
    overflow: visible;
    color: #80868a;
 
@@ -84,7 +85,7 @@ p {
 }
 
 .icon {
-	width: 12%;
+	width: 15%;
 	background-color: #e0e6e9;
 	border-radius: 1em 0px 0px 1em;
 
