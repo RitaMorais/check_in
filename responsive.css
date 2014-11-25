@@ -55,12 +55,12 @@ p {
 	height: 148px;	
 }
 
-::-webkit-input-placeholder {
+/*::-webkit-input-placeholder {
    font-family: "Helvetica Neue";
    font-size: 5em;
    font-weight: 200;
    line-height: 10px;
-}
+}*/
 
 input[type="email"]:focus,
 textarea:focus,
