@@ -62,6 +62,11 @@ p {
    line-height: 10px;
 }
 
+input[type="text"]:focus,
+textarea:focus,
+select:focus {
+    font-size: 5em;
+}
 
 
 .fa-envelope{
@@ -122,6 +127,27 @@ p {
 	border-radius: 0;
 
 
+}
+
+
+.fa-envelope{
+    top:20%;
+    left:30%;
+    font-size: 2em  !important;
+}
+
+.fa-user{
+    top:20%;
+    left:32%;
+    font-size: 2em  !important;
+}
+
+.fa-angle-right{
+    position:relative;
+    top:23%;
+    left:40%;
+    color: #eeeef0;
+    font-size: 1.8em  !important;
 }
 
 h3, h2, p {
