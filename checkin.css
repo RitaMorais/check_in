@@ -125,7 +125,7 @@ p {
 input:focus { 
 	outline-width: 0.2em;
 	outline-color: #e0e6e9;
-  font-size: 1.5em;
+  font-size: 1em;
   padding-left:  5%;
 }
 
