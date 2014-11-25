@@ -52,7 +52,7 @@ p {
 
 .input {
 	border-radius: 0;
-	height: 149px;	
+	height: 148px;	
 }
 
 ::-webkit-input-placeholder {
@@ -84,7 +84,18 @@ p {
 }
 
 
+.register {
+  -webkit-appearance: none;
+  border-radius: 0px;
+  display: block;
+  margin: auto;
+  width: 40%;
+  height: 20%;
+  background-color: #434b4b;
+  border-style: none;
+  font-size: 1.8em;
 
+}
 
 }
 /* Ipad Portrait */
