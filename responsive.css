@@ -73,7 +73,7 @@ body {
   select:focus,
   textarea:focus,
   input:focus {
-    font-size: 16px;
+    font-size: 36px;
     background: green;
   }
 
