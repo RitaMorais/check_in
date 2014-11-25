@@ -56,7 +56,7 @@
   .input {
     width: 65%;
   	border-radius: 0;
-  	height: 130px;	
+  	height: 125px;	
     font-size: 60px !important;
   }
 
@@ -129,9 +129,16 @@
 	height: 64px;
 	background-color: #ffffff;
 	border-radius: 0;
+  font-size: 1em !important;
 
 
 }
+
+  ::-webkit-input-placeholder {
+     font-weight: 200;
+     line-height: 1em;
+  }
+
 
 
 .fa-envelope{
