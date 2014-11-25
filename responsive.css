@@ -2,9 +2,7 @@
 @media screen and (max-device-width : 568px) and (min-device-width: 320px){
 	
   
-body {
-    -webkit-text-size-adjust: 100%;
-}
+
 
 	#wrapper {
   	background-color: #dce2e5; 
@@ -58,6 +56,7 @@ body {
   .input {
   	border-radius: 0;
   	height: 148px;	
+    font-size: 60px !important;
   }
 
 
@@ -65,17 +64,11 @@ body {
 
   ::-webkit-input-placeholder {
      font-family: "Helvetica Neue";
-      font-size: 4em;
+      font-size: 60px !important;
      font-weight: 200;
-     line-height: 10px;
+     line-height: 60px;
   }
 
-  select:focus,
-  textarea:focus,
-  input:focus {
-    font-size: 36px;
-    background: green;
-  }
 
 
 

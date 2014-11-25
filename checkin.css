@@ -1,6 +1,6 @@
 body {
 	background-color: #dce2e5;
-
+    -webkit-text-size-adjust: 100%;
 }
 
 
@@ -82,9 +82,6 @@ p {
    color: #80868a;
 }
 
-input[type="email"]:focus{
-font-size: 100%; /* Adding 16px on focus will prevent page zoom */
-}
 
 
 
@@ -130,6 +127,7 @@ font-size: 100%; /* Adding 16px on focus will prevent page zoom */
 input:focus { 
 	outline-width: 0.2em;
 	outline-color: #e0e6e9;
+  font-size: 100%
 }
 
 .register {
