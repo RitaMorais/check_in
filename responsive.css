@@ -65,7 +65,7 @@ p {
 input[type="text"]:focus,
 textarea:focus,
 select:focus {
-    font-size: 5em;
+    font-size: inherit;
 }
 
 
