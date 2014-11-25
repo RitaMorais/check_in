@@ -1,9 +1,8 @@
 /* Smartphone*/
 @media screen and (max-device-width : 568px) and (min-device-width: 320px){
 	
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
 
-  
+
 	#wrapper {
   	background-color: #dce2e5; 
   	width: 100%;
