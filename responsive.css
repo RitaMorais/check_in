@@ -1,106 +1,108 @@
 /* Smartphone*/
 @media screen and (max-device-width : 568px) and (min-device-width: 320px){
 	
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+
+  
 	#wrapper {
-	background-color: #dce2e5; 
-	width: 100%;
-	margin: auto;
-	margin-top: 5%;
-	border-radius: 0.3em;
-	box-shadow: none;
+  	background-color: #dce2e5; 
+  	width: 100%;
+  	margin: auto;
+  	margin-top: 5%;
+  	border-radius: 0.3em;
+  	box-shadow: none;
 
-}
-
-h3, h2, p {
-  	font-size: 4em;
   }
 
-h2 {
-  
-  	padding-top: 30px;
-  	
-}
+  h3, h2, p {
+    	font-size: 4em;
+    }
+
+  h2 {
+    
+    	padding-top: 30px;
+    	
+  }
 
 
-p {
-  	font-size: 3em;
-  	margin-top: 10%;
-  	padding-bottom: 5%; 
-	padding-top: 5%; 
-}
+  p {
+    	font-size: 3em;
+    	margin-top: 10%;
+    	padding-bottom: 5%; 
+  	padding-top: 5%; 
+  }
 
-.centered-text {
-	width: 95%;
-	margin-left: auto;
-	margin-right: auto;
-}
+  .centered-text {
+  	width: 95%;
+  	margin-left: auto;
+  	margin-right: auto;
+  }
 
-.icon, .ok {
-	height: 150px;
+  .icon, .ok {
+  	height: 150px;
 
-}
+  }
 
-.icon {
-	background-color: #aec0c2;
-	border-radius: 2em 0px 0px 2em;
+  .icon {
+  	background-color: #aec0c2;
+  	border-radius: 2em 0px 0px 2em;
 
-}
+  }
 
-.ok {
-	border-radius: 0px 2em 2em 0px;
-}
+  .ok {
+  	border-radius: 0px 2em 2em 0px;
+  }
 
-.input {
-	border-radius: 0;
-	height: 148px;	
-}
-
-/*::-webkit-input-placeholder {
-   font-family: "Helvetica Neue";
-   font-size: 5em;
-   font-weight: 200;
-   line-height: 10px;
-}*/
-
-input[type="email"]:focus,
-textarea:focus,
-select:focus {
-    font-size: 2em;
-}
+  .input {
+  	border-radius: 0;
+  	height: 148px;	
+  }
 
 
-.fa-envelope{
-    top: 30%;
-    left: 25%;
-    font-size: 3.7em  !important;
-}
+ 
 
-.fa-user{
-    top: 30%;
-    left:25%;
-    font-size: 4em  !important;
-}
-
-.fa-angle-right{
-    top: 25%;
-    left:40%;
-    color: #eeeef0;
-    font-size: 4em  !important;
-}
+  ::-webkit-input-placeholder {
+     font-family: "Helvetica Neue";
+      font-size: 5em;
+     font-weight: 200;
+     line-height: 10px;
+  }
 
 
-.register {
-  -webkit-appearance: none;
-  border-radius: 0px;
-  display: block;
-  margin: auto;
-  width: 50%;
-  height: 30%;
-  background-color: #434b4b;
-  border-style: none;
-  font-size: 3em;
 
-}
+
+  .fa-envelope{
+      top: 30%;
+      left: 25%;
+      font-size: 3.7em  !important;
+  }
+
+  .fa-user{
+      top: 30%;
+      left:25%;
+      font-size: 4em  !important;
+  }
+
+  .fa-angle-right{
+      top: 25%;
+      left:40%;
+      color: #eeeef0;
+      font-size: 4em  !important;
+  }
+
+
+  .register {
+    -webkit-appearance: none;
+    border-radius: 0px;
+    display: block;
+    margin: auto;
+    width: 50%;
+    height: 30%;
+    background-color: #434b4b;
+    border-style: none;
+    font-size: 3em;
+
+  }
 
 }
 /* Ipad Portrait */

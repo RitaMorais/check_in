@@ -1,5 +1,6 @@
 body {
 	background-color: #dce2e5;
+
 }
 
 
@@ -61,11 +62,12 @@ p {
 
 
 .input {
-	width: 70%;
+	width: 69%;
 	height: 47px;
 	background-color: #ffffff;
 	border-radius: 0;
-
+  padding-left: 5%;
+  
 
 }
 
@@ -76,13 +78,12 @@ p {
    font-weight: 200;
    line-height: 80%;
    vertical-align: center;
-   padding-left: 5%;
    overflow: visible;
    color: #80868a;
-
-
-
 }
+
+
+
 
 .icon {
 	width: 15%;
