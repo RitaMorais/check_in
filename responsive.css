@@ -54,8 +54,9 @@
   }
 
   .input {
+    width: 65%;
   	border-radius: 0;
-  	height: 148px;	
+  	height: 145px;	
     font-size: 60px !important;
   }
 
