@@ -130,10 +130,15 @@ input:focus {
 .register {
 	display: block;
 	margin: auto;
-	width: 100px;
-	height: 33px;
+	width: 200px;
+	height: 40px;
 	background-color: #434b4b;
 	border-style: none;
+  font-family: "Helvetica Neue";
+  font-weight: 200;
+  letter-spacing: 2px;
+  font-size: 1em;
+
 }
 
 
