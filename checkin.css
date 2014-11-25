@@ -67,7 +67,7 @@ p {
 	background-color: #ffffff;
 	border-radius: 0;
   padding-left: 5%;
-  
+
 
 }
 
@@ -80,6 +80,10 @@ p {
    vertical-align: center;
    overflow: visible;
    color: #80868a;
+}
+
+input[type="email"]:focus{
+font-size: 100%; /* Adding 16px on focus will prevent page zoom */
 }
 
 

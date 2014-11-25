@@ -1,6 +1,7 @@
 /* Smartphone*/
 @media screen and (max-device-width : 568px) and (min-device-width: 320px){
 	
+  
 
 
 	#wrapper {
@@ -66,6 +67,7 @@
      font-weight: 200;
      line-height: 10px;
   }
+
 
 
 
